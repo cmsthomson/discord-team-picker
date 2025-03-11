@@ -18,7 +18,7 @@ A simple Discord bot that organizes players into random teams for **ARAM** and *
 ## Installation
 
 1. Clone the repository:
-```console
+```bash
    git clone https://github.com/cmsthomson/discord-team-picker.git
    cd discord-game-bot
 ```
