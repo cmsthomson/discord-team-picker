@@ -1,4 +1,4 @@
-# Discord Game Bot
+# Discord Team Picker Bot
 
 A simple Discord bot that organizes players into random teams for **ARAM** and **Arena** game modes.
 
@@ -18,18 +18,17 @@ A simple Discord bot that organizes players into random teams for **ARAM** and *
 ## Installation
 
 1. Clone the repository:
-
+bash```
    git clone https://github.com/YOUR-GITHUB-USERNAME/discord-game-bot.git
-   cd discord-game-bot
-
-2. Install dependencies:
-
-   pip install -r requirements.txt
-
+   cd discord-game-bot ```
+3. Install dependencies:
+bash```
+   pip install -r requirements.txt ```
+   
 3. Set up your bot token in a `.env` file:
-
-   DISCORD_TOKEN=your-bot-token-here
+bash```
+   DISCORD_TOKEN=your-bot-token-here ```
 
 4. Run the bot:
-
-   python bot.py
+bash```
+   python bot.py ```
