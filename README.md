@@ -32,5 +32,5 @@ A simple Discord bot that organizes players into random teams for **ARAM** and *
 ```
 4. Run the bot:
 ```bash
-   python bot.py
+   discord-team-picker.py
 ```
