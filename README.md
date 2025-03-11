@@ -15,7 +15,9 @@ A simple Discord bot that organizes players into random teams for **ARAM** and *
 - `!rematch` - Randomizes teams again without selecting a new game mode
 - `!list` - Lists the current members in the pool
 
-Installation
+![Screenshot](discord-team-picker-screenshot.png)
+
+## Installation
 Clone the repository:
 
 If you're using GitHub Desktop, click Clone or download on the repository page, then choose Open with GitHub Desktop.
