@@ -1,6 +1,6 @@
 # Discord Team Picker Bot
 
-A simple Discord bot that organizes players into random teams for **ARAM** and **Arena** game modes.
+A simple Discord bot that organizes players into random teams for **ARAM** and **Arena** game modes in League of Legends.
 
 ## Features
 
