@@ -9,15 +9,15 @@ A simple Discord bot that organizes players into random teams for **ARAM** and *
 - Creates balanced teams for **ARAM** (max 5 per team) and **Arena** (2 per team)
 - Supports rematching with shuffled teams
 
+
+
+![Screenshot](discord-team-picker-screenshot.png)
+
 ## Commands
 
 - `!start_game` - Starts a new game session
 - `!rematch` - Randomizes teams again without selecting a new game mode
 - `!list` - Lists the current members in the pool
-  
-
-![Screenshot](discord-team-picker-screenshot.png)
-
 
 ## Installation
 Clone the repository:
